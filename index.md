@@ -14,7 +14,10 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      
+      <div style="font-style: italic; color: gray;">
       Written on {{ page.date | date: "%B %e, %Y" }}
+      </div>
     </article>
   {% endfor %}
 </div>
