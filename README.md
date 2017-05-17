@@ -7,4 +7,4 @@ Feel free to view more about <a href="https://jekyllrb.com">Jekyll</a>
 
 You'll also notice that instead of regular HTML files, we are using Markdown (*.md).
 
-You can get some hints with<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheat Sheet</a>
+You can get some hints with <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheat Sheet</a>
