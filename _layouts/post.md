@@ -8,7 +8,12 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-
+  
+  <br />
+  <br />
+  <div>
+    --
+  </div>
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
