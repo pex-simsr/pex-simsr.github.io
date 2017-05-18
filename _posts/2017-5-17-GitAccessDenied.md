@@ -1,4 +1,4 @@
-﻿---
+---
 title: Access Denied
 layout: post
 ---
