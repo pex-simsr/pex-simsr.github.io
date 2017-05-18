@@ -5,3 +5,12 @@
 
 body {
 }
+
+h1 > a.title {
+    text-decoration: none;
+    color: #b5e853;
+}
+
+h1 > a.title:hover {
+    color: #CDCDCD;
+}
